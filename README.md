@@ -2,7 +2,7 @@
 Build VRChat Avatars 3.0 Gimmick with Coding
 
 coding this
-```
+```csharp
 // Parameter
 bool isActiveObject = false;
 
