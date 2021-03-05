@@ -1,8 +1,6 @@
 # AV3Code
-Build VRChat Avatars 3.0 Gimmick with Coding
-
-This is idea level project now.
-
+Build VRChat Avatars 3.0 Gimmick with Coding  
+This is idea level project now.  
 Please feedback with Issue.
 
 coding this
